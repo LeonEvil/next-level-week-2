@@ -12,12 +12,13 @@
 
 .logo-container {
     text-align: center;
-    margin-block-end: 3.2rem;
+    margin-bottom: 3.2rem;
 }
 
 .logo-container h2 {
     font-weight: 500;
     font-size: 3.6rem;
+
     line-height: 4.6rem;
     margin-top: 0.8rem;
 }
@@ -58,7 +59,7 @@
 }
 
 .buttons-container a.study {
-    background: var(--color-primary-lighter);
+    background: var(--color-primary-lighter)
 }
 
 .buttons-container a.study:hover {
@@ -71,7 +72,7 @@
 }
 
 .buttons-container a.give-classes:hover {
-    background: var(--color-secondary-dark);
+    background: var(--color-secondary-dark)
 }
 
 .total-connections {
@@ -86,22 +87,21 @@
     margin-left: 0.8rem;
 }
 
-@media (max-width: 699){
+@media (max-width: 699px) {
     :root {
         font-size: 40%;
     }
-    
 }
 
-@media (min-width: 1100px){
+@media (min-width: 1100px) {
     #page-landing #container {
         max-width: 1100px;
         display: grid;
         grid-template-columns: 2fr 1fr 2fr;
         grid-template-rows: 350px 1fr;
-        grid-template-areas: 
-        "proffy image image"
-        "button button texting";
+        grid-template-areas:
+            "proffy image image"
+            "button button texting";
         column-gap: 87px;
         row-gap: 86px;
     }
@@ -110,7 +110,7 @@
         grid-area: proffy;
         text-align: initial;
         align-self: center;
-        margin: 0px;
+        margin: 0;
     }
 
     .logo-container img {
