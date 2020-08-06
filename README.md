@@ -5,8 +5,8 @@
 ## :notebook:  Índice
 - [Sobre o Proffy](#newspaper-sobre-o-proffy)
 - [Design das paginas](#art-design-das-paginas)
-- [Tecnologia](#computer-tecnologias-utilizadas)
-- [Clonar projeto](#clonar-esse-projeto)
+- [Tecnologias utilizadas](#computer-tecnologias-utilizadas)
+- [Clonar esse projeto](#clonar-esse-projeto)
 - [Licença](#scroll-licen%C3%A7a)
 
 
@@ -24,7 +24,7 @@ Desktop Screenshot
 
 <img src="./readme/Home.jpg" width=1004/><br>
 
-<img src="./readme/page-study.jpg" width=500/> <img src="./readme/give-classes.png" width=500 />
+<img src="./readme/page-study.jpg" width=473/> <img src="./readme/give-classes.png" width=474 />
 
 ## :computer: Tecnologias utilizadas
 - HTML5
