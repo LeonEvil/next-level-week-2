@@ -11,6 +11,8 @@
     <link rel="stylesheet" href="styles/partials/forms.css">
 
     <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&amp;family=Poppins:wght@400;600&amp;display=swap" rel="stylesheet">
+
+    <script src="scripts/addField.js" defer></script>
 </head>
 <body id="page-give-classes">
 
@@ -36,17 +38,17 @@
 
                     <div class="input-block">
                         <label for="name">Nome completo</label>
-                        <input type="name" id="name" required>
+                        <input name="name" id="name" required>
                     </div>
 
                     <div class="input-block">
                         <label for="avatar">Link da sua foto <small>(comece com https://)</small></label>
-                        <input type="avatar" id="avatar" type="url" required>
+                        <input name="avatar" id="avatar" type="url" required>
                     </div>
 
                     <div class="input-block">
                         <label for="whatsapp">Whatsapp <small>(somente números)</small></label>
-                        <input type="whatsapp" id="whatsapp" type="number" required>
+                        <input name="whatsapp" id="whatsapp" type="number" required>
                     </div>
 
                     <div class="textarea-block">
@@ -78,14 +80,14 @@
 
                     <div class="input-block">
                         <label for="cost"> Custo da sua hora/aula <small>(R$)</small></label>
-                        <input type="cost" id="cost" type="number" required>
+                        <input name="cost" id="cost" type="number" required>
                     </div>
 
                 </fieldset>
 
                 <fieldset id="schedule-items">
                     <legend>Horários disponíveis
-                        <button id="add-time">+ Novo Horário</button>
+                        <button name="button" id="add-time">+ Novo Horário</button>
                     </legend>
 
                     <div class="schedule-item">
