@@ -31,6 +31,7 @@ Desktop Screenshot
 - HTML5
 - CSS3
 - JavaScript
+- Node.js
 
 ## :vhs:  Clonar esse projeto
 Utilize o comando `` git clone https://github.com/LeonEvil/next-level-week-2.git `` em seu terminal git.
