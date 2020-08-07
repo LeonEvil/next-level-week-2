@@ -1,0 +1,27 @@
+{
+  "name": "nlw",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "description": "<p align=\"center\">\r    <img src=\"https://github.com/RafaelGoulartB/Proffy/blob/master/.github/logo.png\" alt=\"Proffy\" width=\"280\"/>\r </p>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonEvil/next-level-week-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonEvil/next-level-week-2/issues"
+  },
+  "homepage": "https://github.com/LeonEvil/next-level-week-2#readme"
+}
