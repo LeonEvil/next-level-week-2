@@ -34,7 +34,9 @@ Desktop Screenshot
 - Node.js
 
 ## :vhs:  Clonar esse projeto
-Utilize o comando `` git clone https://github.com/LeonEvil/next-level-week-2.git `` em seu terminal git.
+Utilize o comando `` git clone https://github.com/LeonEvil/next-level-week-2.git `` em seu terminal git.<br>
+Com seu prompt de comando (git) aberto na pasta do projeto, execute esse comando: ``npm run dev``<br>
+Após isso vá até seu navegador e digite ``localhost:5050`` ou se preferir ``ip-da-sua-maquina:5050``
 
 ## :scroll: Licença
 Todos arquivos estão sob [Licença MIT.](https://github.com/LeonEvil/next-level-week-2/blob/master/LICENSE)
