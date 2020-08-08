@@ -4,11 +4,10 @@
 
 ## :notebook:  Índice
 - [Sobre o Proffy](#newspaper-sobre-o-proffy)
-- [Design das paginas](#art-design-das-paginas)
+- [Design das paginas](#art-design-das-p%C3%A1ginas)
 - [Tecnologias utilizadas](#computer-tecnologias-utilizadas)
-- [Clonar esse projeto](#clonar-esse-projeto)
+- [Clonar esse projeto](#vhs--clonar-esse-projeto)
 - [Licença](#scroll-licen%C3%A7a)
-
 
 ## :newspaper: Sobre o Proffy
 O projeto está sendo realizado na semana NLW segunda edição (Next Level Week).<br>
