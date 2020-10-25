@@ -37,5 +37,3 @@ Após isso vá até seu navegador e digite ``localhost:5050`` ou se preferir ``i
 
 ## :scroll: Licença
 Todos arquivos estão sob [Licença MIT.](https://github.com/LeonEvil/next-level-week-2/blob/master/LICENSE)
-
-Criado por [Lucas Serafim.](https://github.com/LeonEvil/)
