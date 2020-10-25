@@ -14,8 +14,6 @@ O projeto está sendo realizado na semana NLW segunda edição (Next Level Week)
 O mesmo consiste em um site de alunos e professores, onde um aluno pode procurar um tutor de determinada matéria e agendar um horário.<br>
 As pessoas interessadas em ensinar poderam se cadastar e incluir a matéria que deseja ensinar, horário disponível e custo pela aula ou por hora.
 
-#### Status: 🚧 Em desenvolvimento... 🚧
-
 ## :art: Design das páginas
 <h3 align="center">
 Desktop Screenshot
